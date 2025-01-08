@@ -1,5 +1,4 @@
 
-
 ## Overview
 
 The **Animated Form Webpage** is a stylish and interactive webpage that includes a user form with fields for name, email, and a subscription checkbox. It utilizes animations to provide visual feedback as users interact with the form, making the experience more engaging and dynamic.
@@ -19,11 +18,3 @@ The **Animated Form Webpage** is a stylish and interactive webpage that includes
 - **JavaScript:** Interactivity and form validation.
 - **SVG (Scalable Vector Graphics):** For creating and animating vector graphics.
 - **GSAP (GreenSock Animation Platform):** A powerful animation library used to create smooth and complex animations.
-
-## Setup Instructions
-
-1. **Clone the Repository:**
-   
-   Open your terminal and run:
-   ```bash
-   git clone https://github.com/yourusername/animated-form-webpage.git
