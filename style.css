@@ -64,12 +64,8 @@ svg {
     cursor: pointer;
     border: none;
     background-color: #eeeeee;
-    /*pointer-events: none;*/
+    
 }
-
-/*.form-container .form-row input[type="submit"].valid {*/
-/*    pointer-events: auto;*/
-/*}*/
 
 .form-container input[type="submit"]:hover {
     background-color: #dddddd;
